@@ -18,9 +18,14 @@ Use GitHub's built-in Table of Contents menu on the top-right corner to explore 
 ### Official Resources
 
 - [Void](https://void.cloud/) - The official Void.cloud homepage.
-- [Join Early Access](https://tally.so/r/D4VE85) - Sign up for Void early access.
-- [VoidZero](https://voidzero.dev/) - The company building Void and the wider toolchain.
+- [Void Early Access](https://tally.so/r/D4VE85) - Sign up for Void early access.
+- [VoidZero Homepage](https://voidzero.dev/) - The company building Void and the wider toolchain.
 - [VoidZero GitHub](https://github.com/voidzero-dev) - Official open-source repositories from VoidZero.
+
+### Social
+
+- [X](https://x.com/deploytovoid) - Official X account of Void.
+- [Discord](https://discord.gg/cC6TEVFKSx) - Official community discussions for the Void ecosystem.
 
 ## Get Started
 
@@ -90,10 +95,6 @@ _Add articles, blog posts, and written deep-dives here._
 ### Videos
 
 _Add talks, walkthroughs, and video demos here._
-
-### Discussions
-
-- [VoidZero Discord](https://discord.gg/cC6TEVFKSx) - Official community discussions for the Void ecosystem.
 
 ## Contributing
 
