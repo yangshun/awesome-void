@@ -34,7 +34,7 @@ Use GitHub's built-in Table of Contents menu on the top-right corner to explore 
 - [What is Void?](https://www.youtube.com/watch?v=Bp86buftbX8) - The official announcement video introducing Void.
 - [Vite+](https://viteplus.dev/) - The current open-source entry point connected to the Void ecosystem.
 
-### Starters and Templates
+<!-- ### Starters and Templates
 
 _Add starter kits, boilerplates, and template repos here._
 
@@ -56,13 +56,13 @@ _Add Solid starters here._
 
 #### Meta-frameworks and Others
 
-_Add meta-framework and other ecosystem starters here._
+_Add meta-framework and other ecosystem starters here._ -->
 
 ## Integrations
 
 ### Data and Storage
 
-_Add database, KV, object storage, and related integrations here._
+- [Fate Void Integration](https://fate.technology/guide/void-integration) - Guide for using `void-fate`, the Void adapter for Fate data and live updates.
 
 ### Auth
 
@@ -80,7 +80,7 @@ _Add developer experience tooling and workflow integrations here._
 
 ### Open Source
 
-_Add open-source projects built with Void here._
+- [void-blog](https://github.com/nkzw-tech/void-blog) - Void-native blogging framework for MDX blogs.
 
 ### Apps and Demos
 
